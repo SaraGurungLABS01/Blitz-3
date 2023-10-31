@@ -74,7 +74,7 @@ To address the challenge of handling traffic spikes during US holidays, where re
 
 **Elasticity with Cost Efficiency**: Auto-scaling not only ensures elasticity but also cost efficiency. Rather than running continuously powerful instances that may be underutilized during non-peak periods, auto-scaling allocates resources based on actual demand. This approach results in cost savings as you only pay for the resources you use when you need them, making it an economically sound choice.
 
-In conclusion, the combined approach of auto-scaling and ALB provides an effective solution for handling unexpected traffic spikes during US holidays while maintaining cost-efficiency throughout the year. This solution ensures the URL Shortener remains responsive and available during peak periods, providing a high-quality user experience.
+In conclusion, the approach of auto-scaling provides an effective solution for handling unexpected traffic spikes during US holidays while maintaining cost-efficiency throughout the year. This solution ensures the URL Shortener remains responsive and available during peak periods, providing a high-quality user experience.
 
 
 ## Question
