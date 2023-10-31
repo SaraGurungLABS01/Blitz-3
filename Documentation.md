@@ -1,9 +1,6 @@
 ## Purpose
 
-The objective of this blitz is to configure our Elastic Beanstalk environment with T.2 micro, so that the Quality Assuance engineer can blitz 
-
-
-
+This blitz focuses on addressing the challenge of effectively managing traffic spikes during US holidays within the context of the URL Shortener application. It explores the economic benefits of utilizing auto-scaling and resource-efficient strategies to ensure high availability and responsiveness during peak traffic periods, while optimizing costs and resource utilization.
 
 
 ## Initial Step: Re-deploy the URL-Shortener Application on Elastic Beanstalk
