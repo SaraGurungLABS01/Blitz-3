@@ -82,3 +82,8 @@ During US holidays, the URL Shortener experiences unexpected traffic spikes, wit
 
 
 Using auto-scaling and an Application Load Balancer (ALB) offers significant economic benefits compared to relying on a single, more powerful instance like a c5.4xlarge. Auto-scaling and ALB provide a cost-efficient solution by dynamically adjusting resource allocation based on actual demand. This ensures that you only pay for the resources you use, avoiding unnecessary fixed costs associated with continuously running a high-capacity instance. Additionally, auto-scaling offers resource optimization, preventing underutilization during non-peak periods, and enhancing availability through redundancy. In contrast, a stronger instance, while providing high performance and bandwidth, incurs continuous fixed costs, leads to resource underutilization, and has scalability limitations, making it less economically efficient, especially for handling variable traffic loads.
+
+## Diagram
+
+![Blitz3 drawio](https://github.com/SaraGurungLABS01/Blitz-3/assets/140760966/e85e019c-dd58-4705-a6ad-5f9bb8e47e5d)
+
